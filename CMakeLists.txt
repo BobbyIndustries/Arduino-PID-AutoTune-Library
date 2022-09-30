@@ -8,4 +8,4 @@ idf_component_register(SRCS "PID_AutoTune_v0/PID_AutoTune_v0.cpp"
                        INCLUDE_DIRS "PID_AutoTune_v0"
                        REQUIRES arduino)
 
-project(Arduino-PID-Library)
+project(PID-AutoTune-v0)
